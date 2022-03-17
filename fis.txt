@@ -1,1 +1,1 @@
-Fisier adaugat de pe computer
+Fisier adaugat de pe computer si incarcat prin CLI. 

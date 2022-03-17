@@ -1,3 +1,5 @@
+https://training.github.com/downloads/github-git-cheat-sheet/
+
 echo "info about this project" >> README.md
 git status
 git add README.md && git commit -m "Add README"
